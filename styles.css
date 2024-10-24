@@ -1,0 +1,29 @@
+body {
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    /* background-color: brown; */
+    background-color: #98C1D9;
+    /* background-color: rgb(1, 218, 1);*/
+    /*background-color: hsl(120, 99, 43);*/
+}
+
+article,
+footer {
+    background-color: #6969B3;
+    /*background-color: green; */
+    /* background-color: hsla(260, 30%, 70%, 0.5);*/
+    /* background-color: rgba(33, 33, 33, 4);*/
+}
+
+section {
+    display: flex;
+    gap: 8px;
+}
+
+a {
+    text-decoration: none;
+    color: blue;
+}
+
+a:hover {
+    text-decoration: underline;
+}
